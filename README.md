@@ -20,7 +20,7 @@ I've been learning to code for 3 years, after switching careers.<br/>I started w
 * 🤝 I'm open to collaborating on Interesting Projects
 * ⚡ Ready to learn something new
 * 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/rahul-jha98/)
-* 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)
+* 📝 &nbsp; Checkout my [resume](https://www.icloud.com/iclouddrive/01am3OA-YKKm4YnuClahEgOVQ#resume)
 
 <a href="https://www.github.com/WenziLikes" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/github/followers/WenziLikes?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
