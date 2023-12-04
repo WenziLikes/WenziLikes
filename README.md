@@ -16,9 +16,11 @@ I've been learning to code for 3 years, after switching careers.<br/>I started w
 
 * ✉️ You can contact me at [ViacheslavMurakhin@icloud.com](mailto:ViacheslavMurakhin@icloud.com)
 * 🚀 I'm currently working on [Contact](http://contactApp)
-* 🧠 I'm learning Back End
+* 🧠 I'm currently learning Back End
 * 🤝 I'm open to collaborating on Interesting Projects
 * ⚡ Ready to learn something new
+* 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/rahul-jha98/)
+* 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)
 
 <a href="https://www.github.com/WenziLikes" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/github/followers/WenziLikes?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
@@ -66,3 +68,4 @@ coffee.
 </div>
 
 ---
+### 🛠️ My Projects
