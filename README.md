@@ -19,7 +19,7 @@ I've been learning to code for 3 years, after switching careers.<br/>I started w
 * 🧠 I'm currently learning Back End
 * 🤝 I'm open to collaborating on Interesting Projects
 * ⚡ Ready to learn something new
-* 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/rahul-jha98/)
+* 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/viacheslav-murakhin)
 * 📝 &nbsp; Checkout my [resume](https://www.icloud.com/iclouddrive/01am3OA-YKKm4YnuClahEgOVQ#resume)
 
 <a href="https://www.github.com/WenziLikes" target="_blank" rel="noreferrer">
