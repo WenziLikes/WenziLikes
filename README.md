@@ -1,73 +1,70 @@
-# Viacheslav Murakhin
+<div align="center">
 
-**Full Stack Developer building clear, responsive product interfaces and production-oriented web systems.**
+<h1>Viacheslav Murakhin</h1>
 
-Based in the Niagara Region, Ontario, Canada. I work across frontend architecture, backend APIs, relational data, testing, and release workflows, with a focus on turning complex product requirements into maintainable user experiences.
+<h3>Full-Stack Developer · Frontend Focus</h3>
 
-[Portfolio](https://viacheslavmurakhin.com) · [Selected Projects](https://viacheslavmurakhin.com/projects) · [LinkedIn](https://www.linkedin.com/in/viacheslav-murakhin) · [Resume](https://viacheslavmurakhin.com/documents/viacheslav-murakhin-resume.pdf) · [Email](mailto:hello@vmnorth.com)
+<p>
+Building clear, responsive product interfaces and dependable full-stack systems.<br>
+Niagara Region, Ontario, Canada
+</p>
 
-## Profile
+<p><a href="https://viacheslavmurakhin.com"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-0F172A?style=flat-square&logo=googlechrome&logoColor=white"></a> <a href="https://www.linkedin.com/in/viacheslav-murakhin"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a> <a href="https://viacheslavmurakhin.com/documents/viacheslav-murakhin-resume.pdf"><img alt="Resume" src="https://img.shields.io/badge/Resume-PDF-475569?style=flat-square&logo=adobeacrobatreader&logoColor=white"></a> <a href="mailto:hello@vmnorth.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-334155?style=flat-square&logo=gmail&logoColor=white"></a></p>
 
-My strongest work combines product thinking, UI/UX, and full-stack implementation. I build responsive React and TypeScript interfaces, connect them to backend services and data, and carry features through testing, deployment, and production verification.
+<p><sub>Open to full-stack and frontend-focused product opportunities.</sub></p>
 
-I care about:
+</div>
 
-- clear workflows for complex products
-- reusable and maintainable frontend architecture
-- responsive behaviour across real devices
-- reliable APIs and relational data flows
-- accessibility, performance, testing, and release quality
-- end-to-end ownership and practical documentation
+## About
+
+I design and ship user-facing products where frontend clarity and backend reliability matter equally. My work spans React and TypeScript interfaces, APIs, relational data, testing, deployment, and production verification.
+
+I enjoy turning complex requirements into calm, practical workflows—and carrying features from product structure and UI architecture through implementation and release.
+
+## Selected Work
+
+### [VMNorth.com](https://vmnorth.com) — Product Platform
+
+<a href="https://vmnorth.com">
+  <img src="https://raw.githubusercontent.com/WenziLikes/VMNorth.com/main/screenshots/overview.png" alt="VMNorth.com multilingual product platform" width="100%">
+</a>
+
+- Multilingual public experience, guided project intake, real-time visitor chat, portfolio publishing, and secure admin operations.
+- End-to-end ownership across product structure, UX, visual system, frontend, backend APIs, persistence, authentication, localization, and release workflows.
+- **Stack:** React, TypeScript, React Router, Vite, Node.js, PostgreSQL, Server-Sent Events, Docker, and GitHub Actions.
+
+[Live product](https://vmnorth.com) · [Product case study](https://github.com/WenziLikes/VMNorth.com)
+
+### [E42 Store](https://github.com/WenziLikes/E42-StoreEcommerce) — E-commerce Application
+
+- Full-stack commerce experience with authentication, catalog and product flows, cart functionality, Stripe checkout, and data-driven interfaces.
+- **Stack:** React, TypeScript, Vite, Redux, Node.js, Express, Firebase, Stripe, and SCSS.
+
+[View repository](https://github.com/WenziLikes/E42-StoreEcommerce)
 
 ## Core Stack
 
-| Area | Technologies |
+| Focus | Technologies |
 | --- | --- |
 | Frontend | React, TypeScript, JavaScript, HTML, CSS/SCSS, React Router, Redux |
 | Backend | Node.js, Express, Java, Spring Boot, REST APIs |
 | Data | PostgreSQL, MySQL, Firebase |
-| Quality | Vitest, Playwright, ESLint, responsive and performance checks |
-| Delivery | Git, GitHub Actions, Docker, Docker Compose, CI/CD |
+| Quality & Delivery | Vitest, Playwright, ESLint, Docker, GitHub Actions, CI/CD |
 
-## Selected Work
+## Working Style
 
-### [VMNorth.com](https://vmnorth.com)
+Clear interface states · Reusable architecture · Responsive implementation · Reliable APIs · Practical documentation · Production-minded delivery
 
-A multilingual, production-oriented product platform that combines public marketing and portfolio experiences with project intake, real-time visitor communication, secure admin tooling, content operations, and release monitoring.
+---
 
-**My role:** End-to-end product ownership across structure, UX, visual system, frontend, backend APIs, persistence, authentication, localization, deployment, verification, and documentation.
+<div align="center">
 
-**Core stack:** React, TypeScript, React Router, Vite, Node.js, PostgreSQL, Server-Sent Events, Docker, and GitHub Actions.
+<p>Interested in working together?</p>
 
-[Live website](https://vmnorth.com) · [Product case study](https://github.com/WenziLikes/VMNorth.com)
+<p>
+<a href="mailto:hello@vmnorth.com">Email</a> ·
+<a href="https://www.linkedin.com/in/viacheslav-murakhin">LinkedIn</a> ·
+<a href="https://viacheslavmurakhin.com/projects">Portfolio</a>
+</p>
 
-### [E42 Store](https://github.com/WenziLikes/E42-StoreEcommerce)
-
-A full-stack e-commerce application with authentication, catalog and product flows, cart functionality, Stripe checkout, and data-driven interfaces.
-
-**Core stack:** React, TypeScript, Vite, Redux, Node.js, Express, Firebase, Stripe, and SCSS.
-
-[View repository](https://github.com/WenziLikes/E42-StoreEcommerce)
-
-### [Developer Portfolio](https://viacheslavmurakhin.com/projects)
-
-A responsive portfolio presenting full-stack, frontend, desktop, CRM, commerce, and product-platform work, with dedicated project pages and an online resume.
-
-[Explore projects](https://viacheslavmurakhin.com/projects)
-
-## Engineering Approach
-
-- Translate requirements and business rules into clear interface states.
-- Keep frontend structure reusable as features and routes grow.
-- Work comfortably across UI, APIs, persistence, and operational concerns.
-- Test responsive layouts, critical flows, and release readiness.
-- Document architectural and deployment decisions for future maintainers.
-
-## Contact
-
-I am open to full-stack and frontend-focused product opportunities.
-
-- **Email:** [hello@vmnorth.com](mailto:hello@vmnorth.com)
-- **LinkedIn:** [linkedin.com/in/viacheslav-murakhin](https://www.linkedin.com/in/viacheslav-murakhin)
-- **Portfolio:** [viacheslavmurakhin.com](https://viacheslavmurakhin.com)
-- **Resume:** [View PDF](https://viacheslavmurakhin.com/documents/viacheslav-murakhin-resume.pdf)
+</div>
