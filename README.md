@@ -9,13 +9,9 @@ Building clear, responsive product interfaces and dependable full-stack systems.
 Niagara Region, Ontario, Canada
 </p>
 
-<a href="https://viacheslavmurakhin.com"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-0F172A?style=flat-square&logo=googlechrome&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/viacheslav-murakhin"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
-<a href="https://viacheslavmurakhin.com/documents/viacheslav-murakhin-resume.pdf"><img alt="Resume" src="https://img.shields.io/badge/Resume-PDF-475569?style=flat-square&logo=adobeacrobatreader&logoColor=white"></a>
-<a href="mailto:hello@vmnorth.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-334155?style=flat-square&logo=gmail&logoColor=white"></a>
+<p><a href="https://viacheslavmurakhin.com"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-0F172A?style=flat-square&logo=googlechrome&logoColor=white"></a> <a href="https://www.linkedin.com/in/viacheslav-murakhin"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a> <a href="https://viacheslavmurakhin.com/documents/viacheslav-murakhin-resume.pdf"><img alt="Resume" src="https://img.shields.io/badge/Resume-PDF-475569?style=flat-square&logo=adobeacrobatreader&logoColor=white"></a> <a href="mailto:hello@vmnorth.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-334155?style=flat-square&logo=gmail&logoColor=white"></a></p>
 
-<br><br>
-<sub>Open to full-stack and frontend-focused product opportunities.</sub>
+<p><sub>Open to full-stack and frontend-focused product opportunities.</sub></p>
 
 </div>
 
