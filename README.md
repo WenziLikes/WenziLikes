@@ -1,13 +1,10 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/profile-hero-light.svg">
+  <img src="./assets/profile-hero-light.svg" alt="Viacheslav Murakhin — Full-Stack Developer with a frontend focus" width="100%">
+</picture>
+
 <div align="center">
-
-<h1>Viacheslav Murakhin</h1>
-
-<h3>Full-Stack Developer · Frontend Focus</h3>
-
-<p>
-Building clear, responsive product interfaces and dependable full-stack systems.<br>
-Niagara Region, Ontario, Canada
-</p>
 
 <p><a href="https://viacheslavmurakhin.com"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-0F172A?style=flat-square&logo=googlechrome&logoColor=white"></a> <a href="https://www.linkedin.com/in/viacheslav-murakhin"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a> <a href="https://viacheslavmurakhin.com/documents/viacheslav-murakhin-resume.pdf"><img alt="Resume" src="https://img.shields.io/badge/Resume-PDF-475569?style=flat-square&logo=adobeacrobatreader&logoColor=white"></a> <a href="mailto:hello@vmnorth.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-334155?style=flat-square&logo=gmail&logoColor=white"></a></p>
 
@@ -15,13 +12,28 @@ Niagara Region, Ontario, Canada
 
 </div>
 
-## About
+## Product Engineering
 
-I design and ship user-facing products where frontend clarity and backend reliability matter equally. My work spans React and TypeScript interfaces, APIs, relational data, testing, deployment, and production verification.
+I design and ship user-facing products where interface clarity, dependable backend systems, and release quality matter equally.
 
-I enjoy turning complex requirements into calm, practical workflows—and carrying features from product structure and UI architecture through implementation and release.
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <strong>01 · Interface systems</strong><br><br>
+      Responsive React UI, reusable components, localization, and clear interaction states.
+    </td>
+    <td width="33%" valign="top">
+      <strong>02 · Full-stack features</strong><br><br>
+      APIs, authentication, relational data, real-time updates, and operational workflows.
+    </td>
+    <td width="33%" valign="top">
+      <strong>03 · Production delivery</strong><br><br>
+      Automated testing, Docker, CI/CD, performance checks, and practical documentation.
+    </td>
+  </tr>
+</table>
 
-## Selected Work
+## Featured Work
 
 ### [VMNorth.com](https://vmnorth.com) — Product Platform
 
@@ -29,20 +41,32 @@ I enjoy turning complex requirements into calm, practical workflows—and carryi
   <img src="https://raw.githubusercontent.com/WenziLikes/VMNorth.com/main/screenshots/overview.png" alt="VMNorth.com multilingual product platform" width="100%">
 </a>
 
-- Multilingual public experience, guided project intake, real-time visitor chat, portfolio publishing, and secure admin operations.
-- End-to-end ownership across product structure, UX, visual system, frontend, backend APIs, persistence, authentication, localization, and release workflows.
-- **Stack:** React, TypeScript, React Router, Vite, Node.js, PostgreSQL, Server-Sent Events, Docker, and GitHub Actions.
+A multilingual product platform combining public sales flows with guided project intake, real-time visitor communication, portfolio publishing, and secure admin operations.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Ownership</strong><br><br>
+      Product structure, UX, visual system, frontend, backend APIs, persistence, authentication, localization, deployment, and release verification.
+    </td>
+    <td width="50%" valign="top">
+      <strong>Core stack</strong><br><br>
+      React, TypeScript, React Router, Vite, Node.js, PostgreSQL, Server-Sent Events, Docker, and GitHub Actions.
+    </td>
+  </tr>
+</table>
 
 [Live product](https://vmnorth.com) · [Product case study](https://github.com/WenziLikes/VMNorth.com)
 
 ### [E42 Store](https://github.com/WenziLikes/E42-StoreEcommerce) — E-commerce Application
 
-- Full-stack commerce experience with authentication, catalog and product flows, cart functionality, Stripe checkout, and data-driven interfaces.
-- **Stack:** React, TypeScript, Vite, Redux, Node.js, Express, Firebase, Stripe, and SCSS.
+An earlier full-stack commerce build covering authentication, catalog and product flows, cart functionality, Stripe checkout, and data-driven interfaces.
+
+<code>React</code> · <code>TypeScript</code> · <code>Vite</code> · <code>Redux</code> · <code>Node.js</code> · <code>Express</code> · <code>Firebase</code> · <code>Stripe</code> · <code>SCSS</code>
 
 [View repository](https://github.com/WenziLikes/E42-StoreEcommerce)
 
-## Core Stack
+## Technical Range
 
 | Focus | Technologies |
 | --- | --- |
@@ -51,15 +75,11 @@ I enjoy turning complex requirements into calm, practical workflows—and carryi
 | Data | PostgreSQL, MySQL, Firebase |
 | Quality & Delivery | Vitest, Playwright, ESLint, Docker, GitHub Actions, CI/CD |
 
-## Working Style
-
-Clear interface states · Reusable architecture · Responsive implementation · Reliable APIs · Practical documentation · Production-minded delivery
-
 ---
 
 <div align="center">
 
-<p>Interested in working together?</p>
+<p><strong>Build something clear, useful, and ready to ship.</strong></p>
 
 <p>
 <a href="mailto:hello@vmnorth.com">Email</a> ·
