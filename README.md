@@ -1,93 +1,73 @@
-## Hello everyone! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+# Viacheslav Murakhin
 
-### 💬 My name is Viacheslav
+**Full Stack Developer building clear, responsive product interfaces and production-oriented web systems.**
 
-### FullStack Developer
+Based in the Niagara Region, Ontario, Canada. I work across frontend architecture, backend APIs, relational data, testing, and release workflows, with a focus on turning complex product requirements into maintainable user experiences.
 
-I've been learning to code for 3 years, after switching careers. I started with HTML, but have really found passion for backend development.
+[Portfolio](https://viacheslavmurakhin.com) · [Selected Projects](https://viacheslavmurakhin.com/projects) · [LinkedIn](https://www.linkedin.com/in/viacheslav-murakhin) · [Resume](https://viacheslavmurakhin.com/documents/viacheslav-murakhin-resume.pdf) · [Email](mailto:hello@vmnorth.com)
 
-🌱 I'm currently doing Back End development, constantly improving my skills in technology stack such as <i>Java</i> & <i>Spring</i><br/>
+## Profile
 
----
+My strongest work combines product thinking, UI/UX, and full-stack implementation. I build responsive React and TypeScript interfaces, connect them to backend services and data, and carry features through testing, deployment, and production verification.
 
-## #Open to Work
+I care about:
 
-* ✉️ You can contact me at [ViacheslavMurakhin@icloud.com](mailto:ViacheslavMurakhin@icloud.com)
-* 🚀 I'm currently working on [Contact](http://contactApp)
-* 🧠 I'm currently learning Back End
-* 🤝 I'm open to collaborating on Interesting Projects
-* ⚡ Ready to learn something new
-* 📫 Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/viacheslav-murakhin)
-* 📝 Checkout my [resume](https://www.icloud.com/iclouddrive/02bElqbZx-SjiUBc2RzOLOcNA#VM%5Fresume)
+- clear workflows for complex products
+- reusable and maintainable frontend architecture
+- responsive behaviour across real devices
+- reliable APIs and relational data flows
+- accessibility, performance, testing, and release quality
+- end-to-end ownership and practical documentation
 
-<a href="https://www.github.com/WenziLikes" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/github/followers/WenziLikes?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
-</a>
+## Core Stack
 
----
-<img src="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Java.png" width="60"></img> Now it's time for coffee.
+| Area | Technologies |
+| --- | --- |
+| Frontend | React, TypeScript, JavaScript, HTML, CSS/SCSS, React Router, Redux |
+| Backend | Node.js, Express, Java, Spring Boot, REST APIs |
+| Data | PostgreSQL, MySQL, Firebase |
+| Quality | Vitest, Playwright, ESLint, responsive and performance checks |
+| Delivery | Git, GitHub Actions, Docker, Docker Compose, CI/CD |
 
-### Skills
-### Languages and tools
+## Selected Work
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" title="java" width="45" height="45"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" title="spring" width="45" height="45"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="typescript" width="45" height="45"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="js" width="45" height="45"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="html" width="45" height="45"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="css" width="45" height="45"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/tailwindcss/tailwindcss-original.svg" title="tailwind" width="45" height="45"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title="sass" width="45" height="45"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="react" width="45" height="45"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" title="redux" width="45" height="45"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title="git" width="45" height="45"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="bash" width="45" height="45"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" title="docker" width="45" height="45"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="sql" width="45" height="45"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" title="firebase" width="45" height="45"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="mongodb" width="45" height="45"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" title="material ui" width="45" height="45"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="npm" width="45" height="45"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="mysql" width="45" height="45"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="node" width="45" height="45"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original-wordmark.svg" title="slack" width="45" height="45"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" title="apple" width="45" height="45"/>&nbsp;
+### [VMNorth.com](https://vmnorth.com)
 
-### Socials
-<p align="left"> 
-  <a href="https://www.facebook.com/ViacheslavMurakhin" target="_blank" rel="noreferrer"> 
-    <picture> 
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> 
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> 
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> 
-    </picture> 
-  </a> 
-  <a href="https://www.github.com/WenziLikes" target="_blank" rel="noreferrer"> 
-    <picture> 
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> 
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> 
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> 
-    </picture> 
-  </a> 
-  <a href="https://www.linkedin.com/in/viacheslav-murakhin" target="_blank" rel="noreferrer"> 
-    <picture> 
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> 
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> 
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> 
-    </picture> 
-  </a>
-</p>
+A multilingual, production-oriented product platform that combines public marketing and portfolio experiences with project intake, real-time visitor communication, secure admin tooling, content operations, and release monitoring.
 
-### My stats
+**My role:** End-to-end product ownership across structure, UX, visual system, frontend, backend APIs, persistence, authentication, localization, deployment, verification, and documentation.
 
-<div id="stat" align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wenzilikes&theme=github_dark" alt=""/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wenzilikes&theme=github_dark" alt=""/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wenzilikes&theme=github_dark" alt=""/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wenzilikes&theme=github_dark" alt=""/>
-</div>
+**Core stack:** React, TypeScript, React Router, Vite, Node.js, PostgreSQL, Server-Sent Events, Docker, and GitHub Actions.
 
----
-### 🛠️ My Projects
+[Live website](https://vmnorth.com) · [Product case study](https://github.com/WenziLikes/VMNorth.com)
 
-**[E42-StoreEcommerce](https://github.com/WenziLikes/E42-StoreEcommerce):** A full-featured e-commerce platform built with React, TypeScript, and Spring Boot. The project includes user authentication, product management, a shopping cart, and a checkout process. It demonstrates my skills in both front-end and back-end development and my ability to integrate different technologies into a cohesive application.
+### [E42 Store](https://github.com/WenziLikes/E42-StoreEcommerce)
+
+A full-stack e-commerce application with authentication, catalog and product flows, cart functionality, Stripe checkout, and data-driven interfaces.
+
+**Core stack:** React, TypeScript, Vite, Redux, Node.js, Express, Firebase, Stripe, and SCSS.
+
+[View repository](https://github.com/WenziLikes/E42-StoreEcommerce)
+
+### [Developer Portfolio](https://viacheslavmurakhin.com/projects)
+
+A responsive portfolio presenting full-stack, frontend, desktop, CRM, commerce, and product-platform work, with dedicated project pages and an online resume.
+
+[Explore projects](https://viacheslavmurakhin.com/projects)
+
+## Engineering Approach
+
+- Translate requirements and business rules into clear interface states.
+- Keep frontend structure reusable as features and routes grow.
+- Work comfortably across UI, APIs, persistence, and operational concerns.
+- Test responsive layouts, critical flows, and release readiness.
+- Document architectural and deployment decisions for future maintainers.
+
+## Contact
+
+I am open to full-stack and frontend-focused product opportunities.
+
+- **Email:** [hello@vmnorth.com](mailto:hello@vmnorth.com)
+- **LinkedIn:** [linkedin.com/in/viacheslav-murakhin](https://www.linkedin.com/in/viacheslav-murakhin)
+- **Portfolio:** [viacheslavmurakhin.com](https://viacheslavmurakhin.com)
+- **Resume:** [View PDF](https://viacheslavmurakhin.com/documents/viacheslav-murakhin-resume.pdf)
